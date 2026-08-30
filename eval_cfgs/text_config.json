@@ -1,0 +1,27 @@
+[
+  {
+    "prompts_file": "./data/code.jsonl",
+    "thoughts_file": "./results/Bagel/think/code/code.jsonl",
+    "output_file": "./results/Bagel/think/code/eval_text_results.jsonl"
+  },
+  {
+    "prompts_file": "./data/arithmetic.jsonl",
+    "thoughts_file": "./results/Bagel/think/arithmetic/arithmetic.jsonl",
+    "output_file": "./results/Bagel/think/arithmetic/eval_text_results.jsonl"
+  },
+  {
+    "prompts_file": "./data/spatial.jsonl",
+    "thoughts_file": "./results/Bagel/think/spatial/spatial.jsonl",
+    "output_file": "./results/Bagel/think/spatial/eval_text_results.jsonl"
+  },
+  {
+    "prompts_file": "./data/attribute.jsonl",
+    "thoughts_file": "./results/Bagel/think/attribute/attribute.jsonl",
+    "output_file": "./results/Bagel/think/attribute/eval_text_results.jsonl"
+  },
+  {
+    "prompts_file": "./data/text.jsonl",
+    "thoughts_file": "./results/Bagel/think/text/text.jsonl",
+    "output_file": "./results/Bagel/think/text/eval_text_results.jsonl"
+  }
+]

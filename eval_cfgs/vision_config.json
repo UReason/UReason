@@ -1,0 +1,77 @@
+[
+  {
+    "image_folder": "./results/Bagel/direct/direct_code/",
+    "input_jsonl": "./data/code.jsonl",
+    "output_jsonl": "./results/Bagel/direct/direct_code/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think/code/",
+    "input_jsonl": "./data/code.jsonl",
+    "output_jsonl": "./results/Bagel/think/code/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think-generated_prompts/code/",
+    "input_jsonl": "./data/code.jsonl",
+    "output_jsonl": "./results/Bagel/think-generated_prompts/code/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/direct/direct_arithmetic/",
+    "input_jsonl": "./data/arithmetic.jsonl",
+    "output_jsonl": "./results/Bagel/direct/direct_arithmetic/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think/arithmetic/",
+    "input_jsonl": "./data/arithmetic.jsonl",
+    "output_jsonl": "./results/Bagel/think/arithmetic/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think-generated_prompts/arithmetic/",
+    "input_jsonl": "./data/arithmetic.jsonl",
+    "output_jsonl": "./results/Bagel/think-generated_prompts/arithmetic/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/direct/direct_spatial/",
+    "input_jsonl": "./data/spatial.jsonl",
+    "output_jsonl": "./results/Bagel/direct/direct_spatial/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think/spatial/",
+    "input_jsonl": "./data/spatial.jsonl",
+    "output_jsonl": "./results/Bagel/think/spatial/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think-generated_prompts/spatial/",
+    "input_jsonl": "./data/spatial.jsonl",
+    "output_jsonl": "./results/Bagel/think-generated_prompts/spatial/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/direct/direct_attribute/",
+    "input_jsonl": "./data/attribute.jsonl",
+    "output_jsonl": "./results/Bagel/direct/direct_attribute/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think/attribute/",
+    "input_jsonl": "./data/attribute.jsonl",
+    "output_jsonl": "./results/Bagel/think/attribute/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think-generated_prompts/attribute/",
+    "input_jsonl": "./data/attribute.jsonl",
+    "output_jsonl": "./results/Bagel/think-generated_prompts/attribute/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/direct/direct_text/",
+    "input_jsonl": "./data/text.jsonl",
+    "output_jsonl": "./results/Bagel/direct/direct_text/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think/text/",
+    "input_jsonl": "./data/text.jsonl",
+    "output_jsonl": "./results/Bagel/think/text/eval_vision_results.jsonl"
+  },
+  {
+    "image_folder": "./results/Bagel/think-generated_prompts/text/",
+    "input_jsonl": "./data/text.jsonl",
+    "output_jsonl": "./results/Bagel/think-generated_prompts/text/eval_vision_results.jsonl"
+  }
+]
