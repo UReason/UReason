@@ -4,8 +4,12 @@
 
 <a href="https://arxiv.org/abs/2602.08336"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b.svg" alt="Paper"></a>
 <a href="https://ureason.github.io"><img src="https://img.shields.io/badge/Project-Website-5B7493.svg" alt="Website"></a>
+<a href="https://2026.emnlp.org/"><img src="https://img.shields.io/badge/EMNLP%202026-Oral-d7263d.svg" alt="EMNLP 2026 Oral"></a>
+<a href="https://2026.emnlp.org/"><img src="https://img.shields.io/badge/%F0%9F%8F%86-Outstanding%20Paper%20Award-f4c430.svg" alt="Outstanding Paper Award"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"></a>
 </div>
+
+> 🏆 **UReason received an Outstanding Paper Award at EMNLP 2026!**
 
 ## 📖 Introduction
 
